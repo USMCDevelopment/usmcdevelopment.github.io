@@ -1,2 +1,3 @@
-# usmcdevelopment.github.io
-Public changelog/website for the USMC games
+## Changelog:
+Visit [the changelog](/changelog) to view changelogs for all official USMC games.
+
